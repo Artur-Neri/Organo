@@ -1,0 +1,21 @@
+.footer {
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    color: white;
+}
+
+.socials {
+    display: flex;
+    gap: 20px;
+}
+
+.socials img{
+    width: 20px;
+}
+
+.footer .logo img{
+    width: 100px;
+}
