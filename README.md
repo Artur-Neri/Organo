@@ -1,4 +1,4 @@
-Meu primeiro projeto com React.
+# Organo
 
 Realizado durante o curso de React da Alura.
 
